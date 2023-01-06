@@ -1,7 +1,8 @@
+![logo](https://github.com/Puja_Randhe/Puja_Randhe/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Puja Randhe</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pujarandhe&label=Profile%20views&color=0e75b6&style=flat" alt="pujarandhe" /> </p>
-<img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1ROTEJZT0hDc2trdjJsME90OWl6UW1zQ0NDd3xBQ3Jtc0ttTlZMTG1TcUlWdW1VX09EQWJfMjJCWWpjUktld0ppMUlBSTYwTVNZZGR6MERmeWxRNm5fNjhOWHh6U0pGM3hpRmRWYjlZa0o2aWcwclkwV1k3cEF0X014eWNKQVRPc2Z4aUJLakFQZC1LWWV6azh4bw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
-- 🌱 I’m currently learning **AWS & DevOps**
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+ 🌱 I’m currently learning **AWS & DevOps**
 
 - 📄 Know about my experiences [file:///C:/Users/Pooja/Downloads/Puja%20Randhe%20Resume.pdf](file:///C:/Users/Pooja/Downloads/Puja%20Randhe%20Resume.pdf)
 
